@@ -1,0 +1,6 @@
+.Right-div {
+    display: inline-flex;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}

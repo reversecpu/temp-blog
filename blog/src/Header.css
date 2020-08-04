@@ -1,0 +1,12 @@
+.header-div {
+    display: block;
+    background-color: skyblue;
+    min-width: 640px;
+    height: 200px;
+    margin-top: -20px;
+}
+.header-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
